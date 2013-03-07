@@ -1,0 +1,7 @@
+// app.js
+
+(function($){
+
+	
+	
+})(jQuery);
